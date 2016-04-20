@@ -1,8 +1,13 @@
 {
   "name": "hubot-help",
   "description": "A hubot script to show available hubot commands",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Josh Nichols <josh@technicalpickles.com>",
+  "contributors": [
+      {
+        "name": "Hector Leiva"
+      }
+  ],
   "license": "MIT",
   "keywords": [
     "hubot",
